@@ -1,0 +1,69 @@
+{
+ "content": [
+  "Now that you've read our Discord rules, please read our Minecraft server rules. You will be required to obey the rules and occasionally familiarize yourself with them. ",
+  "Should you need any assistance or have questions regarding rules, feel free to reach out to a staff member. ",
+  "",
+  "Failure to read and follow these rules will lead to punishment."
+ ],
+ "embeds": [
+  {
+   "author": {
+    "name": "Minecraft rules"
+   },
+   "title": "Cheating & Hacks",
+   "description": "1. Any special resource packs, duplication, x-ray, bots, source code, etc. will result in an immediate ban with little to no chance of appeal. Staff will submit proof to owners to review the punishment. Macros and Auto Clickers are not permitted unless in Mob Farms, but can be limited by staff discretion. Violations may result in permanent removal depending on severity.",
+   "color": "#D1853C"
+  },
+  {
+   "title": "Advertising",
+   "description": "2. Advertising Discord servers, Minecraft servers, Websites, YouTube channels/videos, and any Social Media account(s) is not permitted. The exception is if you record content for our server, with prior approval.",
+   "color": "#D1853C"
+  },
+  {
+   "author": {
+    
+   },
+   "title": "Spam",
+   "description": "3. Any type of spam or flood is strictly forbidden and you will be punished accordingly. We want to make sure chat is readable for everyone, including users with disabilities and users who are younger or older.",
+   "color": "#D1853C"
+  },
+  {
+   "title": "Threats",
+   "description": "4. DDoS threats against any server or users will result in immediate and permanent ban. Real life threats are also an immediate ban. Joking about threats is immature and will result in an immediate ban as well.",
+   "color": "#D1853C"
+  },
+  {
+   "title": "Survival Aspect",
+   "description": "5. The server is survival. Do not ask for items, teleports or game adjustments from staff and don't beg from other players. Similarly, do not use modifications such as easy place with schematics. Inventory and chest sorting is allowed. Villager trading advantages are allowed.",
+   "color": "#D1853C"
+  },
+  {
+   "title": "Respectful Communication",
+   "description": "6. Trash-talking is okay, but be smart about it. No harassing, threatening, or prejudices (including race, gender, sexual orientation, religion, ethnicity or any other discrimination). There is a fine line between ragging and bullying. This server is for all ages, and behavior designed to harm other players is not tolerated.",
+   "color": "#D1853C"
+  },
+  {
+   "title": "Language Policy",
+   "description": "7. You may use non-English languages in any chat that is not public chat. Please be aware we do monitor signs, books, mail, and messages and if needed we will translate to moderate effectively. ",
+   "color": "#D1853C"
+  },
+  {
+   "title": "Griefing & Stealing",
+   "description": "8. Stealing or damaging items/blocks in a claim you're trusted in is strictly disallowed. We have a system to look up who damaged a claim and will take necessary action against offenders. Stealing from unclaimed areas is not allowed. Nature griefing is not allowed. ",
+   "color": "#D1853C"
+  },
+  {
+   "title": "Trapping",
+   "description": "9. Trapping is disallowed; building/creating any sort of traps that may result in death is not allowed. Any mob traps must be well known by players to prevent unwanted death.",
+   "color": "#D1853C"
+  },
+  {
+   "title": "Scamming",
+   "description": "10. Scamming in any way is not tolerated. We will not provide any resources that you were scammed from back if you do not have proper evidence. Before trading: record, take screenshots or do a mod trade (have a moderator present).",
+   "color": "#D1853C",
+   "footer": {
+    
+   }
+  }
+ ]
+}

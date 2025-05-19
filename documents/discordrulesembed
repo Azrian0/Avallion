@@ -1,0 +1,47 @@
+{
+ "content": "Hey, welcome to **Avallion**! We have some simple rules for you to follow.\nThere's more info below, but the main rule is common sense. Just follow the rules. Treat people how you want to be treated, and you'll have a wonderful time here!\nShould you need any assistance or have questions regarding rules, feel free to reach out to a staff member.\nWe aim to provide a safe and fun environment for people of all ages, so we ask that you follow the rules and you'll have a great time here!\n\nFailure to read and follow these rules will lead to punishment.",
+ "embeds": [
+  {
+   "id": 652627557,
+   "title": "Behavior & Communication ",
+   "description": "1. **Respectful Conduct**: \nBe respectful to all server members. No racism, homophobia, transphobia, sexism, or any form of disrespect to community members. \n**We will show no tolerance to rule breakers.**\n2. **Language & Content**:\nLight swearing is allowed, but excessive swearing may result in moderation action. \nNo slurs or derogatory terms.\nDo not attempt to bypass the chat filter.\nEnglish is required in public text channels to facilitate moderation.\n**If you wouldn't say something in front of your legal guardians, don't say it in this discord.**\n3. **Banter & Arguments**:\nBanter and comical talk is encouraged, but keep it to a minimum.\nJoking is fine as long as both sides are aware it's a joke.\nKeep arguments to a minimum and do not subject others to toxic behavior.\nDo not instigate arguments or bring outside drama into the server.\n**Derailed arguments will be dealt with swiftly and abruptly with no warning.**\n4. **Harassment & Threats**:\nDo not harass, threaten, or bully any server members or staff.\nNo baiting or targeted toxicity.\nNo content promoting self-harm, suicide, eating disorders, or similar harmful behavior.\n**DDOS/Dox threats are prohibited, even as a joke.**",
+   "color": 13796653,
+   "author": {
+    "name": "Discord Rules"
+   },
+   "fields": []
+  },
+  {
+   "id": 10674342,
+   "title": "Chat & Channels",
+   "description": "5. **Spam & Channel Relevance**:\nKeep conversations relevant to the channel topic.\nUse off-topic for unrelated discussions.\nNo spamming outside designated spam channels.\n**Spam includes: mass-mentions, flooding chat, rapid messaging, excessive media posts, and unnecessary bot commands.**\n6. **Mentions & Pings**:\nDo not mass-mention users or spam @mentions.\nOnly ping staff for serious matters like server crashes or severe rule violations.\n**For general questions, use help tickets instead of pinging staff.**\n7. **Media & Links**:\nNo \"glitched\" or client-crashing messages (GIFs, videos, links, UNICODE characters).\nNo pornography or explicit content in any form (images, GIFs, links, videos).\nNo blood, gore, or similar inappropriate content.\n**If you wouldn't wanna see it, don't post it.**",
+   "color": 13796653,
+   "fields": []
+  },
+  {
+   "id": 768916116,
+   "title": "Server & Community",
+   "description": "8. **Advertising**:\nNo advertising of any kind without explicit permission from Management.\nThis includes social media, Discord servers, and other Minecraft servers.\nNo DM advertising - this will result in a ban.\n**Brief mentions of other servers are allowed, but in-depth discussions should be private.**\n9. **Staff Interaction**:\nDo not undermine staff authority.\nDo not backseat moderate (mini-mod) - ping appropriate staff for assistance.\nDo not ask for special privileges (permissions, roles, titles, custom channels).\n**If you believe a staff member is abusing power, contact higher-ranked staff.**\n10. **Private Messaging**:\nDo not send unsolicited explicit content in direct messages.\nGet approval before direct messaging other members.\nDo not share screenshots of any private conversation in the Discord server.\n**While we cannot directly moderate direct messages, any threats will be swiftly dealt with.**\n11. **Personal Information & Security**:\nSharing personal information that isn't yours will result in an immediate permanent ban.\nDo not trick, defraud, or mislead users to learn sensitive account information.\nDo not upload viruses, Trojan horses, or other malicious material.\n**If you don't want it happening to you, don't do it to someone else.**\n12. **Server Security**:\nNo distribution of files, warez, mods, game core files, or fishy content.\nNo illegal content of any kind.\nNo raiding or threats of raiding.\n**Because we can not properly moderate all content, any upload of resource packs, texture packs or mods in our Discord server will be deleted.**\n13. **Account Requirements**:\nInappropriate Discord names are not permitted and may result in a kick.\nInappropriate Discord profile pictures are not permitted and may result in a kick.\n**If you say you're underage to use Discord you will be banned and reported to Discord.**",
+   "color": 13796653,
+   "fields": []
+  },
+  {
+   "id": 53179399,
+   "title": "Reporting & Consequences",
+   "description": "14. **Reporting Issues**:\nIf you're being harassed or mistreated by another member or staff, contact higher-ranked staff.\n**Do not try to handle serious issues on your own.**\n15. **Moderation Actions**:\nRule violations may result in warnings, mutes, kicks, or bans depending on severity and frequency.\nStaff decisions are final but can be appealed through proper channels.\n**We take all reports seriously. Any harm that will be brought upon players and staff is our main concern and we aim to provide a safe environment for everyone.**",
+   "color": 13796653,
+   "fields": []
+  },
+  {
+   "id": 638009478,
+   "title": "Political Discussion",
+   "description": "16. **Sensitive Topics**:\nMinimal political discussion is allowed, but channels should not become political battlefields.\nNo discussions about Hitler/Stalin or similar extreme political figures.\nAny topics regarding vaccinations, immigration, or any topics similar are not allowed.\n**Please do not comment on active wars or conflicts.**",
+   "color": 13796653,
+   "footer": {
+    "text": "Last updated: May 13th, 2025"
+   },
+   "fields": []
+  }
+ ],
+ "components": []
+}
